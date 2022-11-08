@@ -1,0 +1,238 @@
+/*!**********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./assets/src/sass/editor.scss ***!
+  \**********************************************************************************************************************/
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format("woff2");
+  unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }
+
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+.aq_first_section {
+  max-width: 100% !important;
+  width: 100%; }
+  .aq_first_section .aq_first_section_wrap {
+    background: url(../6d3f1c3d49950dc2580e.jpg) no-repeat 100% 50%;
+    height: 692px; }
+    .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock {
+      background: #04C48D;
+      width: 50%;
+      height: 692px; }
+      .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock h1 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 48px;
+        color: #252B39;
+        padding-left: 271px;
+        padding-top: 179px; }
+      .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock p:nth-of-type(1) {
+        position: relative;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        padding-right: 70px;
+        margin-top: -49px;
+        font-size: 27px;
+        padding-left: 273px;
+        line-height: 40px;
+        color: #252B39; }
+        .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock p:nth-of-type(1) svg {
+          position: absolute;
+          top: 49px;
+          left: 200px;
+          display: block; }
+      .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock p:nth-of-type(2) {
+        position: relative; }
+        .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock p:nth-of-type(2) svg {
+          position: absolute;
+          bottom: 21px;
+          right: 114px;
+          display: block; }
+      .aq_first_section .aq_first_section_wrap .aq_first_section_wrap_firstblock p:nth-of-type(3) {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 20px;
+        padding-left: 274px;
+        color: #252B39; }
+
+.section_posts_and_filters {
+  width: 100%;
+  max-width: 100% !important; }
+  .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col {
+    display: inline-block;
+    width: 33%;
+    vertical-align: top; }
+    .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_filter_first, .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_filter_second, .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_filter_third {
+      width: 292px;
+      display: block;
+      float: right; }
+    .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_filter_third {
+      margin-top: 20px; }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_filter_third button {
+        width: 114px;
+        background: #02C48D;
+        border-radius: 3px;
+        border: 1px solid #02C48D;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        padding: 8px 0px;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: -0.484848px;
+        color: #252B39;
+        margin-top: 30px; }
+    .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_title {
+      background: #F3EFED;
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      width: 234px;
+      padding: 25px 17px 5px 17px;
+      height: 40px;
+      margin-top: 33px;
+      line-height: 24px;
+      color: #252B39;
+      position: relative; }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_title svg {
+        position: absolute;
+        width: 14px;
+        height: 12px;
+        top: 29px;
+        right: 12px; }
+        .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_title svg path {
+          fill: #04C48D; }
+    .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content {
+      padding-left: 17px;
+      padding-top: 13px;
+      background: #FAF8F8;
+      padding-bottom: 7px;
+      margin-bottom: -20px;
+      width: 251px; }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content br {
+        display: none; }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content p {
+        padding: 0;
+        margin: 9px 0; }
+        .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content p:hover {
+          cursor: pounter; }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content .cl-custom-check {
+        display: inline-block;
+        transform: scale(1.5); }
+      .section_posts_and_filters .posts_and_filters_wrap .posts_and_filters_left_col .posts_and_filters_content .cl-custom-check-label {
+        display: inline-block;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 27px;
+        color: #252B39; }
+  .section_posts_and_filters .posts_and_filters_wrap .right_col {
+    display: inline-block;
+    width: 66%;
+    vertical-align: top;
+    padding-top: 36px; }
+    .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course {
+      width: 263px;
+      display: inline-block;
+      vertical-align: top;
+      background: #FFFFFF;
+      box-shadow: 0px 11px 14px rgba(132, 132, 132, 0.15);
+      margin-right: 25px;
+      margin-bottom: 25px; }
+      .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course img {
+        width: 263px; }
+      .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_course_title {
+        font-family: 'Poppins';
+        font-style: normal;
+        padding: 0 12px;
+        margin-top: -16px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #252B39; }
+      .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_course_type {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #252B39;
+        margin-top: 6px;
+        margin-left: 14px;
+        margin-right: 10px;
+        display: inline-block; }
+      .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_course_duration {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #252B39;
+        display: inline-block; }
+      .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_campus {
+        background: #F5F5F5;
+        padding: 8px 13px 10px; }
+        .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_campus .item_campus_circle {
+          display: inline-block;
+          font-family: 'Poppins';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 12px;
+          text-align: center;
+          color: #FFFFFF;
+          background: #252B39;
+          border-radius: 82%;
+          width: 23px;
+          height: 21px;
+          margin-right: 8px; }
+          .section_posts_and_filters .posts_and_filters_wrap .right_col .item_course .item_campus .item_campus_circle:hover {
+            color: #252B39;
+            background: #02C48D;
+            cursor: pointer; }
+
+
+/*# sourceMappingURL=editor.css.map*/
